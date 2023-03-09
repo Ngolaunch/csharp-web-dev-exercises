@@ -8,6 +8,6 @@ int[] arrayPractice = { 1, 1, 2, 3, 5, 8 } ;
 
 foreach (int i in arrayPractice)
 {
-    Console.WriteLine(arrayPractice);
+    Console.WriteLine(arrayPractice[]);
 }
 
