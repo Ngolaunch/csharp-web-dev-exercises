@@ -23,5 +23,14 @@ public class Student
     {
         nextId++;
     }
+    public string listStudentInfo()
+    {
+        return $"Name: {Name}\n" +
+            $"Student ID: {StudentId}\n" +
+            $"Credits: {NumberOfCredits}\n" +
+            $"GPA: {Gpa}";
+    }
 
 }
+
+

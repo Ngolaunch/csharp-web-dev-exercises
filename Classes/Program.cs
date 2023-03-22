@@ -8,7 +8,7 @@ Student whateverTheName = new Student("Dion", 111, 1, 4.0);
 //whateverTheName.Name = "D";
 //Console.WriteLine(whateverTheName.Name);
 
-//Student rosco = new Student("Rosco", 323);
+Student rosco = new Student("Rosco", 323);
 
 //Console.WriteLine(rosco.Gpa);
 
@@ -17,7 +17,6 @@ Student roe = new Student("roe");
 Student boe = new Student("boe");
 Student doe = new Student("doe");
 
-Console.WriteLine("joe");
-Console.WriteLine("roe");
-Console.WriteLine("boe");
-Console.WriteLine("doe");
+Console.WriteLine(joe.listStudentInfo());
+
+
