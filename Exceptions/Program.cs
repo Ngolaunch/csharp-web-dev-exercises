@@ -21,9 +21,6 @@ static double Divide(double x, double y)
 // Test out your Divide() function here!
 Console.WriteLine(Divide(7, 0));
 
-// Test out your Divide() function here!
-//Console.WriteLine(Divide(7, 0));
-
 
 // --------- Test Student Labs ----------
 
